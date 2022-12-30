@@ -1,0 +1,15 @@
+:root {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 700;
+
+  background-color: #ffffff;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 2rem;
+}
