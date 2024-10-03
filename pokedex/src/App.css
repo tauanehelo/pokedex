@@ -16,11 +16,11 @@
 }
 
 .logo{
-  width: 2rem;
-  height: 2rem;
+  width: 3rem;
+  height: 3rem;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  filter: drop-shadow(0 0 6rem #ff6464aa);
 }
 
 input{
@@ -28,9 +28,11 @@ input{
   width: 64rem;
   border-radius: .5rem;
   padding: .5rem;
+  border-color: #94A3B8;
   background: #F1F5F9;
   color: #94A3B8;
   border: none;
+  filter: drop-shadow(0 0 3px #b69898aa);
 }
 
 .cards{

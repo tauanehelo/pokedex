@@ -51,7 +51,7 @@ function App() {
           }) : <p>carregando...</p> }
       </div>
       <footer>
-        <p>Com 💛 Info Jr UFBA 2022</p>
+        <p>Com 💛</p>
       </footer>
     </div>
   )
